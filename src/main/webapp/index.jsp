@@ -7,7 +7,7 @@
     <h1 style="color:blue;">WELCOME TO JENKINS CLASS</h1>
     <h1 style="color:green;">THIS IS OUR DEPLOYMENT</h1>
     <h1 style="color:black;">WE INTEGRATED NEXUS WITH JENKINS</h1>
-    <h1 style="color:darkblue;">THIS IS NEXUS TOPIC</h1>
+    <h1 style="color:darkblue;">NEXT TOPIC IS NEXUS TOPIC</h1>
 </body>
 </html>
 
