@@ -8,9 +8,9 @@
     <h1 style="color:green;">THIS IS OUR DEPLOYMENT</h1>
     <h1 style="color:black;">WE INTEGRATED NEXUS WITH JENKINS</h1>
     <h1 style="color:darkblue;">NEXT TOPIC IS NEXUS TOPIC</h1> 
-    <h1 style="color:darkblue;">Finally got it</h1>
-    <h1 style="color:darkblue;">WEBHOK SUCCESS</h1>
-    <h1 style="color:darkblue;">HEY WE DEPLOYED OUR APP USING JENKINS, LET'S CELEBRATE</h1>
+    <h1 style="color:skyblue;">Finally got it</h1>
+    <h1 style="color:green;">WEBHOK SUCCESS</h1>
+    <h1 style="color:red;">HEY WE DEPLOYED OUR APP USING JENKINS, LET'S CELEBRATE</h1>
     
     
     
